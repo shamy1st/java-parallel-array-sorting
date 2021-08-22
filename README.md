@@ -1,2 +1,5 @@
-# java-parallel-array-sorting
-Java Parallel Array Sorting
+# Java Parallel Array Sorting
+
+
+## Ref
+* https://www.baeldung.com/java-arrays-sort-vs-parallelsort
